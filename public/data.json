@@ -1,0 +1,116 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_name": "Spicy Chicken Stir-Fry",
+        "image": "https://i.ibb.co/FgdQ2hp/185e8cc3-760b-4f73-983c-10656e1dad73.jpg",
+        "short_description": "A flavorful and healthy stir-fry dish with tender chicken and fresh vegetables.",
+        "ingredients": [
+            "550 g chicken",
+            "120 ml soy sauce",
+            "200 g basil leaves",
+            "400 g mushroom"
+        ],
+        "preparing_time": "30",
+        "calories": 320
+    },
+    {
+        "recipe_id": 2,
+        "recipe_name": "Classic Beef Lasagna",
+        "image": "https://i.ibb.co/n62cCnP/5bab3a65-20d6-4fa8-8389-fbb7ecc3fbed.jpg",
+        "short_description": "Layers of pasta, rich tomato sauce, savory beef, and melted cheese baked to perfection.",
+        "ingredients": [
+            "400 g ground beef",
+            "500 g lasagna noodles",
+            "800 ml tomato sauce",
+            "300 g mozzarella cheese"
+        ],
+        "preparing_time": "50",
+        "calories": 480
+    },
+    {
+        "recipe_id": 3,
+        "recipe_name": "Garlic Butter Noodles",
+        "image": "https://i.ibb.co/gyXGBmJ/33c50c02-c3d2-41ae-b319-4656ebc77d9c.jpg",
+        "short_description": "A simple yet flavorful dish featuring noodles tossed in garlic-infused butter and Parmesan cheese.",
+        "ingredients": [
+            "250g noodles",
+            "4 cloves garlic",
+            "4 tbsp unsalted butter",
+            "1/4 cup Parmesan cheese",
+            "Salt and pepper to taste",
+            "Chopped parsley for garnish (optional)"
+        ],
+        "preparing_time": "20",
+        "calories": 350
+    },
+    {
+        "recipe_id": 4,
+        "recipe_name": "Mushroom Risotto",
+        "image": "https://i.ibb.co/Z19ZVpM/8a079aa0-45da-4e69-a726-b5df50a0530b.jpg",
+        "short_description": "Creamy Italian rice dish infused with earthy mushrooms and aromatic herbs.",
+        "ingredients": [
+            "300 g Arborio rice",
+            "200 g mushrooms",
+            "1 liter vegetable broth",
+            "100 ml white wine"
+        ],
+        "preparing_time": "40",
+        "calories": 350
+    },
+    {
+        "recipe_id": 5,
+        "recipe_name": "Honey Garlic Shrimp",
+        "image": "https://i.ibb.co/Yb8B3Kr/f7c7c01e-85cc-43c6-a2cc-d4c7493ebbe7.jpg",
+        "short_description": "Juicy shrimp coated in a sweet and savory honey garlic sauce, perfect for a quick dinner.",
+        "ingredients": [
+            "400 g shrimp",
+            "50 ml honey",
+            "30 ml soy sauce",
+            "20 g garlic"
+        ],
+        "preparing_time": "20",
+        "calories": 250
+    },
+    {
+        "recipe_id": 6,
+        "recipe_name": "Caprese Salad",
+        "image": "https://i.ibb.co/KqRhFL3/25ea705b-b462-49a0-96a2-a2c7a487d74b.jpg",
+        "short_description": "A refreshing salad featuring ripe tomatoes, fresh mozzarella, basil, and balsamic glaze.",
+        "ingredients": [
+            "4 tomatoes",
+            "200 g mozzarella cheese",
+            "50 g fresh basil leaves",
+            "30 ml balsamic vinegar"
+        ],
+        "preparing_time": "15",
+        "calories": 180
+    },
+    {
+        "recipe_id": 7,
+        "recipe_name": "Grilled Veggie Skewers",
+        "image": "https://i.ibb.co/m5YG1Nd/77f366dc-55ea-46e8-9e2d-edea1807ecb1.jpg",
+        "short_description": "Colorful skewers with a variety of grilled vegetables, bursting with smoky flavors.",
+        "ingredients": [
+            "200 g cherry tomatoes",
+            "150 g bell peppers",
+            "150 g zucchini",
+            "100 g mushrooms"
+        ],
+        "preparing_time": "25",
+        "calories": 150
+    },
+    {
+        "recipe_id": 8,
+        "recipe_name": "Chocolate Banana Smoothie",
+        "image": "https://i.ibb.co/bPf93GP/d3d54f77-89c8-4ea4-bbc1-5a5d7bef6e65.jpg",
+        "short_description": "Indulgent and creamy smoothie made with ripe bananas, cocoa powder, and almond milk.",
+        "ingredients": [
+            "2 ripe bananas",
+            "20 g cocoa powder",
+            "250 ml almond milk",
+            "5 g honey"
+        ],
+        "preparing_time": "10",
+        "calories": 200
+    }
+]
